@@ -1,0 +1,1768 @@
+{
+  "frames": {
+    "bg.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 1920,
+        "h": 1080
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 1080
+      },
+      "sourceSize": {
+        "w": 1920,
+        "h": 1080
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-dead-6.png": {
+      "frame": {
+        "x": 1,
+        "y": 1083,
+        "w": 79,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 79,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-attack-4.png": {
+      "frame": {
+        "x": 82,
+        "y": 1083,
+        "w": 79,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 79,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-attack-5.png": {
+      "frame": {
+        "x": 163,
+        "y": 1083,
+        "w": 79,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 79,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-dead-4.png": {
+      "frame": {
+        "x": 244,
+        "y": 1083,
+        "w": 77,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-dead-5.png": {
+      "frame": {
+        "x": 323,
+        "y": 1083,
+        "w": 77,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 77,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-dead-6.png": {
+      "frame": {
+        "x": 402,
+        "y": 1083,
+        "w": 78,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-dead-5.png": {
+      "frame": {
+        "x": 482,
+        "y": 1083,
+        "w": 76,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 76,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-jump-6.png": {
+      "frame": {
+        "x": 560,
+        "y": 1083,
+        "w": 61,
+        "h": 83
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 83
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-dead-3.png": {
+      "frame": {
+        "x": 645,
+        "y": 1083,
+        "w": 71,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-dead-4.png": {
+      "frame": {
+        "x": 718,
+        "y": 1083,
+        "w": 72,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-dead-2.png": {
+      "frame": {
+        "x": 792,
+        "y": 1083,
+        "w": 65,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-dead-1.png": {
+      "frame": {
+        "x": 859,
+        "y": 1083,
+        "w": 65,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 65,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-attack-1.png": {
+      "frame": {
+        "x": 926,
+        "y": 1083,
+        "w": 59,
+        "h": 78
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 78
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-run-7.png": {
+      "frame": {
+        "x": 1006,
+        "y": 1083,
+        "w": 61,
+        "h": 74
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 74
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-run-3.png": {
+      "frame": {
+        "x": 1082,
+        "y": 1083,
+        "w": 61,
+        "h": 74
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 74
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 74
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-run-1.png": {
+      "frame": {
+        "x": 1158,
+        "y": 1083,
+        "w": 59,
+        "h": 76
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-jump-5.png": {
+      "frame": {
+        "x": 1236,
+        "y": 1083,
+        "w": 61,
+        "h": 73
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 73
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-run-2.png": {
+      "frame": {
+        "x": 1311,
+        "y": 1083,
+        "w": 59,
+        "h": 75
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-run-4.png": {
+      "frame": {
+        "x": 1388,
+        "y": 1083,
+        "w": 58,
+        "h": 75
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-attack-2.png": {
+      "frame": {
+        "x": 1465,
+        "y": 1083,
+        "w": 55,
+        "h": 79
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 79
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-run-5.png": {
+      "frame": {
+        "x": 1546,
+        "y": 1083,
+        "w": 57,
+        "h": 76
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 57,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-run-6.png": {
+      "frame": {
+        "x": 1624,
+        "y": 1083,
+        "w": 55,
+        "h": 75
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-run-8.png": {
+      "frame": {
+        "x": 1701,
+        "y": 1083,
+        "w": 55,
+        "h": 75
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-jump-3.png": {
+      "frame": {
+        "x": 1778,
+        "y": 1083,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-jump-4.png": {
+      "frame": {
+        "x": 1844,
+        "y": 1083,
+        "w": 64,
+        "h": 63
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 63
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-jump-1.png": {
+      "frame": {
+        "x": 718,
+        "y": 1152,
+        "w": 59,
+        "h": 67
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 59,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-jump-2.png": {
+      "frame": {
+        "x": 1844,
+        "y": 1148,
+        "w": 58,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 66
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-idle-4.png": {
+      "frame": {
+        "x": 926,
+        "y": 1144,
+        "w": 49,
+        "h": 78
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 2,
+        "w": 49,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-jump-7.png": {
+      "frame": {
+        "x": 1158,
+        "y": 1144,
+        "w": 57,
+        "h": 67
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 57,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-idle-2.png": {
+      "frame": {
+        "x": 560,
+        "y": 1146,
+        "w": 49,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 3,
+        "w": 49,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-idle-1.png": {
+      "frame": {
+        "x": 639,
+        "y": 1156,
+        "w": 49,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 3,
+        "w": 49,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-hurt-1.png": {
+      "frame": {
+        "x": 482,
+        "y": 1153,
+        "w": 49,
+        "h": 76
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-attack-4.png": {
+      "frame": {
+        "x": 402,
+        "y": 1155,
+        "w": 55,
+        "h": 66
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 66
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-dead-7.png": {
+      "frame": {
+        "x": 1465,
+        "y": 1140,
+        "w": 51,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-attack-3.png": {
+      "frame": {
+        "x": 1388,
+        "y": 1143,
+        "w": 51,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-attack-2.png": {
+      "frame": {
+        "x": 1311,
+        "y": 1144,
+        "w": 47,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 47,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-jump-5.png": {
+      "frame": {
+        "x": 1217,
+        "y": 1146,
+        "w": 45,
+        "h": 73
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 73
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-attack-1.png": {
+      "frame": {
+        "x": 787,
+        "y": 1156,
+        "w": 45,
+        "h": 70
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-run-6.png": {
+      "frame": {
+        "x": 82,
+        "y": 1155,
+        "w": 46,
+        "h": 67
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-dead-3.png": {
+      "frame": {
+        "x": 859,
+        "y": 1156,
+        "w": 56,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 55
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-attack-5.png": {
+      "frame": {
+        "x": 1,
+        "y": 1156,
+        "w": 48,
+        "h": 63
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 63
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-run-3.png": {
+      "frame": {
+        "x": 151,
+        "y": 1155,
+        "w": 44,
+        "h": 66
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 66
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-jump-3.png": {
+      "frame": {
+        "x": 1006,
+        "y": 1146,
+        "w": 42,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-jump-4.png": {
+      "frame": {
+        "x": 1050,
+        "y": 1146,
+        "w": 48,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-dead-7.png": {
+      "frame": {
+        "x": 1100,
+        "y": 1146,
+        "w": 52,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-hurt-2.png": {
+      "frame": {
+        "x": 219,
+        "y": 1156,
+        "w": 36,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-hurt-1.png": {
+      "frame": {
+        "x": 290,
+        "y": 1156,
+        "w": 35,
+        "h": 69
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 69
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-attack-3.png": {
+      "frame": {
+        "x": 1624,
+        "y": 1140,
+        "w": 32,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-jump-6.png": {
+      "frame": {
+        "x": 1518,
+        "y": 1142,
+        "w": 36,
+        "h": 65
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 65
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 65
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-idle-4.png": {
+      "frame": {
+        "x": 1556,
+        "y": 1142,
+        "w": 30,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 73
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-idle-5.png": {
+      "frame": {
+        "x": 1588,
+        "y": 1142,
+        "w": 30,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-idle-3.png": {
+      "frame": {
+        "x": 1658,
+        "y": 1140,
+        "w": 30,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-idle-2.png": {
+      "frame": {
+        "x": 1690,
+        "y": 1140,
+        "w": 30,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-idle-1.png": {
+      "frame": {
+        "x": 1722,
+        "y": 1140,
+        "w": 30,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-run-5.png": {
+      "frame": {
+        "x": 1754,
+        "y": 1149,
+        "w": 30,
+        "h": 68
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-jump-1.png": {
+      "frame": {
+        "x": 1754,
+        "y": 1181,
+        "w": 33,
+        "h": 62
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-dead-8.png": {
+      "frame": {
+        "x": 361,
+        "y": 1156,
+        "w": 52,
+        "h": 39
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 39
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-jump-2.png": {
+      "frame": {
+        "x": 1690,
+        "y": 1213,
+        "w": 33,
+        "h": 61
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 61
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-run-1.png": {
+      "frame": {
+        "x": 787,
+        "y": 1203,
+        "w": 29,
+        "h": 68
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-run-2.png": {
+      "frame": {
+        "x": 290,
+        "y": 1193,
+        "w": 29,
+        "h": 67
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-run-4.png": {
+      "frame": {
+        "x": 219,
+        "y": 1194,
+        "w": 29,
+        "h": 67
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 67
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 67
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-dead-1.png": {
+      "frame": {
+        "x": 151,
+        "y": 1201,
+        "w": 32,
+        "h": 57
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 57
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 57
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-dead-2.png": {
+      "frame": {
+        "x": 1100,
+        "y": 1196,
+        "w": 32,
+        "h": 55
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 55
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-dead-9.png": {
+      "frame": {
+        "x": 1658,
+        "y": 1214,
+        "w": 24,
+        "h": 15
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 15
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-dead-8.png": {
+      "frame": {
+        "x": 917,
+        "y": 1156,
+        "w": 52,
+        "h": 5
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "tanka-dead-10.png": {
+      "frame": {
+        "x": 1754,
+        "y": 1140,
+        "w": 17,
+        "h": 6
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 6
+      },
+      "sourceSize": {
+        "w": 17,
+        "h": 6
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-idle-3.png": {
+      "frame": {
+        "x": 639,
+        "y": 1156,
+        "w": 49,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 3,
+        "w": 49,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dude-idle-5.png": {
+      "frame": {
+        "x": 639,
+        "y": 1156,
+        "w": 49,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 3,
+        "w": 49,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "textures": {
+    "bg": "bg.png"
+  },
+  "animations": {
+    "dude-attack": [
+      "dude-attack-1.png",
+      "dude-attack-2.png",
+      "dude-attack-3.png",
+      "dude-attack-4.png",
+      "dude-attack-5.png"
+    ],
+    "dude-dead": [
+      "dude-dead-1.png",
+      "dude-dead-2.png",
+      "dude-dead-3.png",
+      "dude-dead-4.png",
+      "dude-dead-5.png",
+      "dude-dead-6.png",
+      "dude-dead-7.png",
+      "dude-dead-8.png"
+    ],
+    "dude-idle": [
+      "dude-idle-1.png",
+      "dude-idle-2.png",
+      "dude-idle-3.png",
+      "dude-idle-4.png",
+      "dude-idle-5.png"
+    ],
+    "dude-hurt": [
+      "dude-hurt-1.png"
+    ],
+    "dude-jump": [
+      "dude-jump-1.png",
+      "dude-jump-2.png",
+      "dude-jump-3.png",
+      "dude-jump-4.png",
+      "dude-jump-5.png",
+      "dude-jump-6.png",
+      "dude-jump-7.png"
+    ],
+    "dude-run": [
+      "dude-run-1.png",
+      "dude-run-2.png",
+      "dude-run-3.png",
+      "dude-run-4.png",
+      "dude-run-5.png",
+      "dude-run-6.png",
+      "dude-run-7.png",
+      "dude-run-8.png"
+    ],
+    "tanka-attack": [
+      "tanka-attack-1.png",
+      "tanka-attack-2.png",
+      "tanka-attack-3.png",
+      "tanka-attack-4.png",
+      "tanka-attack-5.png"
+    ],
+    "tanka-dead": [
+      "tanka-dead-1.png",
+      "tanka-dead-2.png",
+      "tanka-dead-3.png",
+      "tanka-dead-4.png",
+      "tanka-dead-5.png",
+      "tanka-dead-6.png",
+      "tanka-dead-7.png",
+      "tanka-dead-8.png",
+      "tanka-dead-9.png",
+      "tanka-dead-10.png"
+    ],
+    "tanka-hurt": [
+      "tanka-hurt-1.png",
+      "tanka-hurt-2.png"
+    ],
+    "tanka-idle": [
+      "tanka-idle-1.png",
+      "tanka-idle-2.png",
+      "tanka-idle-3.png",
+      "tanka-idle-4.png",
+      "tanka-idle-5.png"
+    ],
+    "tanka-run": [
+      "tanka-run-1.png",
+      "tanka-run-2.png",
+      "tanka-run-3.png",
+      "tanka-run-4.png",
+      "tanka-run-5.png",
+      "tanka-run-6.png"
+    ],
+    "tanka-jump": [
+      "tanka-jump-1.png",
+      "tanka-jump-2.png",
+      "tanka-jump-3.png",
+      "tanka-jump-4.png",
+      "tanka-jump-5.png",
+      "tanka-jump-6.png"
+    ]
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "/sprites/spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1922,
+      "h": 1247
+    },
+    "scale": 1
+  }
+}
